@@ -195,8 +195,4 @@ void AEstrategiaMovimientoZigZag::moverseEstrategia(AZombie* _zombieActual, FVec
 	
 }
 
-//void AEstrategiaMovimientoZigZag::PrecesarDeltaTimer(float DeltaTime)
-//{
-//	
-//}
 
