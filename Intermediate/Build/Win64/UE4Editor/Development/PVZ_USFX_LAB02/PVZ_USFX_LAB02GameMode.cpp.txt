@@ -1,0 +1,41 @@
+C:\Repositorio SIS 457\FINAL\PATRON STRATEGY\PVZ_USFX_LAB02-master\Intermediate\Build\Win64\UE4Editor\Development\PVZ_USFX_LAB02\Definitions.PVZ_USFX_LAB02.h
+C:\Repositorio SIS 457\FINAL\PATRON STRATEGY\PVZ_USFX_LAB02-master\Source\PVZ_USFX_LAB02\PVZ_USFX_LAB02GameMode.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Repositorio SIS 457\FINAL\PATRON STRATEGY\PVZ_USFX_LAB02-master\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02\PVZ_USFX_LAB02GameMode.generated.h
+C:\Repositorio SIS 457\FINAL\PATRON STRATEGY\PVZ_USFX_LAB02-master\Source\PVZ_USFX_LAB02\PVZ_USFX_LAB02Pawn.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\Repositorio SIS 457\FINAL\PATRON STRATEGY\PVZ_USFX_LAB02-master\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02\PVZ_USFX_LAB02Pawn.generated.h
+C:\Repositorio SIS 457\FINAL\PATRON STRATEGY\PVZ_USFX_LAB02-master\Source\PVZ_USFX_LAB02\Zombie.h
+C:\Repositorio SIS 457\FINAL\PATRON STRATEGY\PVZ_USFX_LAB02-master\Source\PVZ_USFX_LAB02\EstrategiaMovimiento.h
+C:\Repositorio SIS 457\FINAL\PATRON STRATEGY\PVZ_USFX_LAB02-master\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02\EstrategiaMovimiento.generated.h
+C:\Repositorio SIS 457\FINAL\PATRON STRATEGY\PVZ_USFX_LAB02-master\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02\Zombie.generated.h
+C:\Repositorio SIS 457\FINAL\PATRON STRATEGY\PVZ_USFX_LAB02-master\Source\PVZ_USFX_LAB02\Plant.h
+C:\Repositorio SIS 457\FINAL\PATRON STRATEGY\PVZ_USFX_LAB02-master\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02\Plant.generated.h
+C:\Repositorio SIS 457\FINAL\PATRON STRATEGY\PVZ_USFX_LAB02-master\Source\PVZ_USFX_LAB02\ZombieComun.h
+C:\Repositorio SIS 457\FINAL\PATRON STRATEGY\PVZ_USFX_LAB02-master\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02\ZombieComun.generated.h
+C:\Repositorio SIS 457\FINAL\PATRON STRATEGY\PVZ_USFX_LAB02-master\Source\PVZ_USFX_LAB02\ZombieCono.h
+C:\Repositorio SIS 457\FINAL\PATRON STRATEGY\PVZ_USFX_LAB02-master\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02\ZombieCono.generated.h
+C:\Repositorio SIS 457\FINAL\PATRON STRATEGY\PVZ_USFX_LAB02-master\Source\PVZ_USFX_LAB02\ZombieCubo.h
+C:\Repositorio SIS 457\FINAL\PATRON STRATEGY\PVZ_USFX_LAB02-master\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02\ZombieCubo.generated.h
+C:\Repositorio SIS 457\FINAL\PATRON STRATEGY\PVZ_USFX_LAB02-master\Source\PVZ_USFX_LAB02\ZombieSenal.h
+C:\Repositorio SIS 457\FINAL\PATRON STRATEGY\PVZ_USFX_LAB02-master\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02\ZombieSenal.generated.h
+C:\Repositorio SIS 457\FINAL\PATRON STRATEGY\PVZ_USFX_LAB02-master\Source\PVZ_USFX_LAB02\Lanzaguisantes.h
+C:\Repositorio SIS 457\FINAL\PATRON STRATEGY\PVZ_USFX_LAB02-master\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02\Lanzaguisantes.generated.h
+C:\Repositorio SIS 457\FINAL\PATRON STRATEGY\PVZ_USFX_LAB02-master\Source\PVZ_USFX_LAB02\Repetidora.h
+C:\Repositorio SIS 457\FINAL\PATRON STRATEGY\PVZ_USFX_LAB02-master\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02\Repetidora.generated.h
+C:\Repositorio SIS 457\FINAL\PATRON STRATEGY\PVZ_USFX_LAB02-master\Source\PVZ_USFX_LAB02\Girasol.h
+C:\Repositorio SIS 457\FINAL\PATRON STRATEGY\PVZ_USFX_LAB02-master\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02\Girasol.generated.h
+C:\Repositorio SIS 457\FINAL\PATRON STRATEGY\PVZ_USFX_LAB02-master\Source\PVZ_USFX_LAB02\Nuez.h
+C:\Repositorio SIS 457\FINAL\PATRON STRATEGY\PVZ_USFX_LAB02-master\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02\Nuez.generated.h
+C:\Repositorio SIS 457\FINAL\PATRON STRATEGY\PVZ_USFX_LAB02-master\Source\PVZ_USFX_LAB02\Hongo.h
+C:\Repositorio SIS 457\FINAL\PATRON STRATEGY\PVZ_USFX_LAB02-master\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02\Hongo.generated.h
+C:\Repositorio SIS 457\FINAL\PATRON STRATEGY\PVZ_USFX_LAB02-master\Source\PVZ_USFX_LAB02\EstrategiaMovimientoZigZag.h
+C:\Repositorio SIS 457\FINAL\PATRON STRATEGY\PVZ_USFX_LAB02-master\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02\EstrategiaMovimientoZigZag.generated.h
